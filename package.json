@@ -1,0 +1,21 @@
+{
+  "name": "mlb-tipster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./mlb/teamStats/index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4",
+    "mockdate": "^3.0.5",
+    "nock": "^13.1.0",
+    "serverless-offline": "^7.0.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "date-fns": "^2.22.1"
+  }
+}

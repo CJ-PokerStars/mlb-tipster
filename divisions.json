@@ -1,0 +1,43 @@
+[
+  {
+    "id": 201,
+    "name": "American League East",
+    "nameShort": "AL East",
+    "teams": [111, 147, 141, 110, 139]
+  },
+  {
+    "id": 204,
+    "name": "National League East",
+    "nameShort": "NL East",
+    "abbreviation": "NLE",
+    "teams": [121, 144, 146, 120, 143]
+  },
+  {
+    "id": 202,
+    "name": "American League Central",
+    "nameShort": "AL Central",
+    "abbreviation": "ALC",
+    "teams": [145, 114, 118, 142, 116]
+  },
+  {
+    "id": 205,
+    "name": "National League Central",
+    "nameShort": "NL Central",
+    "abbreviation": "NLC",
+    "teams": [138, 112, 158, 113, 134]
+  },
+  {
+    "id": 200,
+    "name": "American League West",
+    "nameShort": "AL West",
+    "abbreviation": "ALW",
+    "teams": [133, 117, 136, 108, 140]
+  },
+  {
+    "id": 203,
+    "name": "National League West",
+    "nameShort": "NL West",
+    "abbreviation": "NLW",
+    "teams": [135, 119, 137, 115, 109]
+  }
+]
